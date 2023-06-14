@@ -1,0 +1,9 @@
+S:\Private\SPS\pokerface\obj\Release\net6.0\PubTmp\Out\pokerface.exe
+S:\Private\SPS\pokerface\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+S:\Private\SPS\pokerface\obj\Release\net6.0\PubTmp\Out\appsettings.json
+S:\Private\SPS\pokerface\obj\Release\net6.0\PubTmp\Out\pf\games.json
+S:\Private\SPS\pokerface\obj\Release\net6.0\PubTmp\Out\pf\players.json
+S:\Private\SPS\pokerface\obj\Release\net6.0\PubTmp\Out\pokerface.dll
+S:\Private\SPS\pokerface\obj\Release\net6.0\PubTmp\Out\pokerface.deps.json
+S:\Private\SPS\pokerface\obj\Release\net6.0\PubTmp\Out\pokerface.runtimeconfig.json
+S:\Private\SPS\pokerface\obj\Release\net6.0\PubTmp\Out\pokerface.pdb
